@@ -27,17 +27,6 @@ used anaconda to install ipython notebook). ESRI ArcMap is the platform used to 
 Python addin was downloaded and a button and combo box were implemented to show results and give the map an 
 interactive feel.
 
-OTHER INFORMATION:
-----------------------
-iPython Notebook was used for the twitter script because I had difficulty in installing tweepy. iPython or tweepy
-or both, were throwing random errors for small things. At one point, I couldn't change my script because it 
-would throw an error. Hence, this script wasn't pep8 checked. The workspace folder on ipython couldn't be changed
-so manually copied the csv files to my workspace. 
-After May of 2015, the default setting for geolocations has been turned off by twitter. This in turn gave me
-disappointing results. The bounding box and count  parameters, even after multiple searches and different entries, did
-not perform uniformly each time. Hence, the general geographic location of the tweets (Mostly midwest) and the count
-(from 17 to 60) kept fluctuating in the same range. 
-
 SOURCES OF REFERENCE CODE:
 ------------------------------
 For most of the sources and reference codes, I have taken the help of questions and comments on STACK OVERFLOW
